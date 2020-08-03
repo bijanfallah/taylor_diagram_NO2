@@ -1,4 +1,3 @@
 # TaylorDiagram
-## TaylorDiagram implementation in python. 
+## based on https://github.com/saeed81/TaylorDiagram.git special thanks to saeed81
 
-It is only one function and accecpts arguments as simple vector. It is very easy to be integrated in a python based analysis package. 
